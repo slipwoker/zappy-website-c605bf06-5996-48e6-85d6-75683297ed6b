@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לפינה מירושלים – הבית של פרסום ציורים ומכירת ציורים מקוריים. גלה יצירות אמנות ייחודיות שמספרות את סיפור ירושלים. היכנס עכשיו!
+
+### אודות
+https://example.com/about
+פינה מירושלים נולדה מאהבה עמוקה לאמנות ולעיר. הכירו את החזון שלנו, את האמנים שמאחורי הציורים ואת הדרך שבה אנו מחברים בין יוצרים לאוהבי אמנות אמיתיים.
+
+### גלריה
+https://example.com/gallery
+גלריית הציורים הירושלמית שלנו מציגה יצירות מקוריות וייחודיות למכירה. מצא את הציור שידבר אל ליבך, ישדרג את הבית ויספר סיפור. עיין בגלריה עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על ציור שאהבת? רוצה לרכוש יצירה או לפרסם ציורים משלך? צוות פינה מירושלים כאן בשבילך – פנה אלינו עוד היום ונשמח לעזור בכל פנייה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פינה מירושלים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פינה מירושלים
+
+### Category
+https://example.com/category/:slug
+מוצרים - פינה מירושלים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
